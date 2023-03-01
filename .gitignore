@@ -1,0 +1,9 @@
+gitignore.swn
+gitignore.swo
+gitignore.swp
+demo_git.txt
+demo_git2.txt
+*.log
+.idea/
+
+
