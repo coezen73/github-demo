@@ -38,5 +38,6 @@ Invalid Login Scenarios
     Input Text    ${txtbox_username}  ${username}
     Input Text    ${txtbox_password}    ${password}
     Click Button    ${btn_login}
+
 # Verification step:
     Element Should Contain    ${txt_error}  ${error_msg}
